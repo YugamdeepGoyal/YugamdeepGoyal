@@ -21,10 +21,10 @@ ongoing work in deep learning.
 ## Areas of Focus
 - Machine Learning: classification, regression, model evaluation and tuning
 - Data Analysis: exploratory data analysis, data cleaning, feature engineering
-- Deep Learning: currently building foundational and applied knowledge
+- Deep Learning: currently learning NLP with deep learning
 
 ## Technical Skills
-Python, scikit-learn, pandas, NumPy, XGBoost, Jupyter Notebook, seaborn/matplotlib
+Python, scikit-learn, pandas, NumPy, XGBoost, Jupyter Notebook, seaborn/matplotlib, tensorflow, keras
 
 ## Selected Projects
 
