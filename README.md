@@ -3,7 +3,7 @@
 
   <p>
     <a href="https://yugamdeepgoyal.github.io"><b>Portfolio</b></a> &nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/your-username"><b>LinkedIn</b></a>
+    <a href="https://www.linkedin.com/in/yugamdeep-goyal-bb765633a/"><b>LinkedIn</b></a>
   </p>
 </div>
 
